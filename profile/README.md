@@ -1,62 +1,27 @@
 <div align="center">
-  <img src="../assets/logo.png" alt="Bytes2Pro Logo" width="200"/>
+  <img src="../assets/logo.png" alt="Bytes2Pro Logo" width="150"/>
   
   # Bytes2Pro
   
   **[bytes2pro.dev](https://bytes2pro.dev)**
 </div>
 
-We are a collective of senior developers and technical specialists who architect, build, and scale software systems that drive business outcomes.
-
-## Who We Are
-
-Bytes2Pro brings together experienced freelancers who have delivered production-grade solutions across the entire technology spectrum. Our team combines deep technical expertise with proven experience in enterprise environments, having contributed to and maintained critical open-source infrastructure used by millions.
+Bytes2Pro is a collective of senior developers and technical specialists who architect, build, and scale software systems that drive business outcomes. We bring together experienced freelancers with proven expertise in enterprise environments and significant contributions to open-source infrastructure used by millions.
 
 ## Core Competencies
 
-**Full-Stack Development**
+**Full-Stack Development** • Frontend (React, Vue, Angular, TypeScript) • Backend (Node.js, Python, Go, Rust, Java, .NET) • Mobile (React Native, Flutter, native iOS/Android)
 
--   Frontend: React, Vue, Angular, TypeScript, modern web standards
--   Backend: Node.js, Python, Go, Rust, Java, .NET
--   Mobile: React Native, Flutter, native iOS/Android
+**Infrastructure & DevOps** • Cloud architecture (AWS, GCP, Azure) • Kubernetes, Docker, CI/CD • Infrastructure as Code (Terraform), monitoring, observability
 
-**Infrastructure & DevOps**
+**AI & Machine Learning** • LLM integration and fine-tuning • Generative AI • Computer vision and NLP • MLOps and model deployment
 
--   Cloud architecture (AWS, GCP, Azure)
--   Kubernetes, Docker, CI/CD pipelines
--   Infrastructure as Code (Terraform), monitoring, and observability
+**System Design & Architecture** • Microservices and distributed systems • Database design and optimization • Performance optimization and scalability planning
 
-**AI & Machine Learning**
+## Open Source & Client Partnerships
 
--   LLM integration and fine-tuning
--   Generative AI and content generation
--   Computer vision and NLP solutions
--   MLOps and model deployment pipelines
+We actively contribute to and maintain open-source projects that power modern software development. We partner with businesses to deliver custom software solutions—from initial concept through production deployment—emphasizing technical excellence, maintainable codebases, and scalable solutions.
 
-**System Design & Architecture**
-
--   Microservices and distributed systems
--   Database design and optimization
--   Performance optimization and scalability planning
-
-## Open Source Impact
-
-We actively contribute to and maintain open-source projects that power modern software development. Our work includes significant contributions to popular frameworks, libraries, and tools that developers rely on daily.
-
-## Client Partnerships
-
-We partner with businesses to deliver custom software solutions—from initial concept through production deployment. Our approach emphasizes technical excellence, maintainable codebases, and solutions that scale with your business needs.
-
-**What We Deliver**
-
--   Custom web applications and platforms
--   API development and system integration
--   Technical architecture and consulting
--   Performance optimization and modernization
--   Team augmentation and technical leadership
-
-## Get In Touch
-
-We engage with clients who value technical excellence and long-term thinking. Reach out to discuss how we can contribute to your next project.
+**Services:** Custom web applications • API development and integration • Technical architecture and consulting • Performance optimization • Team augmentation and technical leadership
 
 [Contact us →](mailto:bytes2pro@gmail.com)
