@@ -1,10 +1,12 @@
-# Bytes2Pro
-
-![Bytes2Pro Logo](../assets/logo.png)
+<div align="center">
+  <img src="../assets/logo.png" alt="Bytes2Pro Logo" width="200"/>
+  
+  # Bytes2Pro
+  
+  **[bytes2pro.dev](https://bytes2pro.dev)**
+</div>
 
 We are a collective of senior developers and technical specialists who architect, build, and scale software systems that drive business outcomes.
-
-**[bytes2pro.dev](https://bytes2pro.dev)**
 
 ## Who We Are
 
